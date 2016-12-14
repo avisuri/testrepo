@@ -1,4 +1,4 @@
 # comment
 def say_hello():
-	print("Good morning, world!")
+	print("Good midday, world!")
 	print("Bye bye world!")
